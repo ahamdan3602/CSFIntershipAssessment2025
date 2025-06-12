@@ -94,10 +94,3 @@ csf-assessment/
 ```
 
 ---
-
-## 6. Acknowledgments
-
-- [REST Countries API](https://restcountries.com/)
-- [Prisma ORM](https://www.prisma.io/)
-- [Vite](https://vitejs.dev/)
-/Users/abody/Desktop/untitled folder 4/CSF-Assessment/package.json/Users/abody/Desktop/untitled folder 4/CSF-Assessment/readme.md
